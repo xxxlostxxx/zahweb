@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="zahweb:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="zahweb.war">
+      <element id="artifact" artifact-name="zahweb:war exploded" />
+    </root>
+  </artifact>
+</component>
